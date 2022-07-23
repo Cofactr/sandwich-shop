@@ -1,0 +1,45 @@
+{
+  "name": "sandwich-shop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "react-scripts start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@material-ui/core": "^4.12.4",
+    "@material-ui/icons": "^4.11.3",
+    "@reduxjs/toolkit": "^1.8.3",
+    "axios": "^0.27.2",
+    "lodash": "^4.17.21",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
+    "react-redux": "^7.2.8",
+    "react-router-dom": "^6.3.0",
+    "react-scripts": "^5.0.1",
+    "redux": "^4.2.0"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.182",
+    "@types/node": "^12.20.55",
+    "@types/react": "^16.14.28",
+    "@types/react-dom": "^16.9.16",
+    "@types/react-redux": "^7.1.24",
+    "typescript": "^3.9.10"
+  }
+}
