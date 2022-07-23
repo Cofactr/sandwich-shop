@@ -7,13 +7,13 @@ This is a React app that has been built with intentional errors and generally pr
 
 **NOTE:** Commenting your code is highly recommended! The changes that you make throughout this interview are going to be reviewed by the Cofactr hiring team.
 
-**Feature Request:** Before anything else, our interviewer will provide you with a specific feature to implement for this app. During this section feel free to take note of and even write comments for changes you'd like to make but do not get too distracted with a desire to start refactoring until the requested task is complete. As soon as the feature as been implemented to at least working condition, the time is then yours.
+**Feature Request:** Before anything else, our interviewer will provide you with a specific feature to implement for this app. During this section feel free to take note of and even write comments for changes you'd like to make but do not get too distracted with a desire to start refactoring until the requested task is complete. As soon as the feature as been implemented to at least working condition, the time is then yours. Please commit these changes to a branch called `feature-request` before moving onward!
 
-**Self Driven Upgrades:** For your convenience, a very easy spot to start would be any of the **Known Issues** included within this README. You are completely welcome to come up with your own changes that you might make if you inherited this app as well though. No extra points for going off the list or staying on the list, it's just a guide. You are also completely welcome to discuss potential changes with your interviewer to get ideas of how to attack this dumpster fire. When you are finished with the time allotted you can commit the code changes you have to a branch and push to the remote origin. If during this time you notice things you want to change but don't consider it high enough priority or too large a task to do during the interview you can feel free to make write comment in the code about what you would like to fix and how you _would_ fix it.
+**Self Driven Upgrades:** For your convenience, a very easy spot to start would be any of the **Known Issues** included within this README. You are completely welcome to come up with your own changes that you might make if you inherited this app as well though. No extra points for going off the list or staying on the list, it's just a guide. You are also completely welcome to discuss potential changes with your interviewer to get ideas of how to attack this dumpster fire. When you are finished with the time allotted you can commit the code changes you have to a branch and push to the remote origin. If during this time you notice things you want to change but don't consider it high enough priority or too large a task to do during the interview you can feel free to make write comment in the code about what you would like to fix and how you _would_ fix it. When you are done commit all your self driven changes to a new branch (you can branch off of `feature-request`) called `self-driven`.
 
 **Framework:** As you work on this app please note the **Technologies** list we have included in this README and as you determine best practices to use please adhere to the technologies of the app. As in, try not to change the whole architecture, stay in the bounds of whats (poorly) implemented. React, MUI, Typescript, etc. Even if you think changing or upgrading these things would be the best upgrade for the app. **You are completely welcome and encouraged to check documentation online** for any of these technologies or google / stack overflow for how to remember how to write anything during the interview! We all do it, this interview is not intended to test you on arbitrary framework memorization.
 
-We hope this is a fun, effective, and practical interview question that closely resembles "a day in the life" of a front-end coder. We would however love any feed back you may have about this interview format at the end of the interview!
+**Submission:** When you are done follow instructions **Submission** section of this README or ask your interviewer for instructions on how to best submit your work. in We hope this is a fun, effective, and practical interview question that closely resembles "a day in the life" of a front-end coder. We would however love any feed back you may have about this interview format at the end of the interview!
 
 ## Documentation
 [API documentation](https://github.com/Cofactr/sandwich-shop)
@@ -59,7 +59,15 @@ npm start
 
 - Lodash
 
-  
+
+## Submission
+
+When you are done:
+1. Add and commit all changes you've made to the correct branches listed above.
+2. Delete node_modules folder
+3. Compress or zip the working directory (we want to maintain the .git folder in what you are submitting)
+4. Upload your zipped project file to the link provided to you by your interviewer.
+
 ---
 
 ### BELOW IS FOR COFACTR INTERVIEWER
