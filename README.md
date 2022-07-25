@@ -34,7 +34,7 @@ npm start
 
 - [**BUG**] Updating "Notes" on the sandwich view, then refreshing, changes "Name" for some reason!?
 
-- [**UX**] Double clicking (accidentally) Submit on the Sanwich Form creates duplicate sandwiches
+- [**UX**] Double clicking (accidentally) Submit on the Sandwich Form creates duplicate sandwiches
 
 - [**DESIGN**] Theme palette properties on Line: 9 of `src/theme/index.ts` don't seem to be being used as expected. (Not seeing colors: `#366`, `#cff` or `#def` anywhere in the app)
 
