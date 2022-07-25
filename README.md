@@ -13,7 +13,7 @@ This is a React app that has been built with intentional errors and generally pr
 
 **Framework:** As you work on this app please note the **Technologies** list we have included in this README and as you determine best practices to use please adhere to the technologies of the app. As in, try not to change the whole architecture, stay in the bounds of whats (poorly) implemented. React, MUI, Typescript, etc. Even if you think changing or upgrading these things would be the best upgrade for the app. **You are completely welcome and encouraged to check documentation online** for any of these technologies or google / stack overflow for how to remember how to write anything during the interview! We all do it, this interview is not intended to test you on arbitrary framework memorization.
 
-**Submission:** When you are done follow instructions **Submission** section of this README or ask your interviewer for instructions on how to best submit your work. in We hope this is a fun, effective, and practical interview question that closely resembles "a day in the life" of a front-end coder. We would however love any feed back you may have about this interview format at the end of the interview!
+**Submission:** When you are done follow instructions **Submission** section of this README or ask your interviewer for instructions on how to best submit your work. We hope this is a fun, effective, and practical interview question that closely resembles "a day in the life" of a front-end coder. We would however love any feed back you may have about this interview format at the end of the interview!
 
 ## Documentation
 [API documentation](https://github.com/Cofactr/sandwich-shop)
@@ -30,7 +30,7 @@ npm start
 
 ## Known Issues
 
-- [**UX**] Hitting on create sandwich form doesn't do anything.
+- [**UX**] Hitting "Enter" key on the create sandwich form doesn't do anything.
 
 - [**BUG**] Updating "Notes" on the sandwich view, then refreshing, changes "Name" for some reason!?
 
