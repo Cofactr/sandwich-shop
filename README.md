@@ -66,7 +66,7 @@ When you are done:
 1. Add and commit all changes you've made to the correct branches listed above.
 2. Delete node_modules folder
 3. Compress or zip the working directory (we want to maintain the .git folder in what you are submitting)
-4. Upload your zipped project file to the link provided to you by your interviewer.
+4. Upload your zipped project file [here](https://www.dropbox.com/request/NqUNBsA6LVlmnMztyoaQ).
 
 ---
 
